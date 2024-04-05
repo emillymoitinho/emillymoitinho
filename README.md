@@ -1,4 +1,7 @@
 # Olá! Me chamo Emilly 👋
+
+### Sou estudante de ADS e estou me dedicando para me tornar uma desenvolvedora front-end. Atualmente, estou focada em estudar HTML, CSS, Git e GitHub
+
 <div>
   <a href="https://github.com/emillysmoitinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emillysmoitinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -10,11 +13,11 @@
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-##
- 
+# 🌐 Redes Sociais
 <div> 
-  <a href = "mailto:emillysmoitinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emilly-soares-moitinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:emillysmoitinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emilly-soares-moitinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 
