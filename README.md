@@ -1,6 +1,6 @@
 # Olá! Me chamo Emilly 👋
 
-### Sou estudante de ADS e estou me dedicando para me tornar uma desenvolvedora front-end. Atualmente, estou focada em estudar HTML, CSS, Git e GitHub
+### Sou estudante de ADS e estou me dedicando para me tornar uma desenvolvedora front-end. Atualmente, estou focada em estudar HTML e CSS
 
 <div>
   <a href="https://github.com/emillysmoitinho">
