@@ -3,7 +3,7 @@
 #### Sou estudante de ADS e Eng. da Computação, estou me dedicando para me tornar uma desenvolvedora front-end. Atualmente, estou focada em estudar HTML e CSS.
 
 <div>
-  <a href="https://github.com/emillysmoitinho">
+  <a href="https://github.com/emillymoitinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emillymoitinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymoitinho&layout=compact&langs_count=16&theme=radical"/>
 </div>
