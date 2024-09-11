@@ -1,6 +1,6 @@
 # Olá! Seja Bem Vindo 👋
 
-#### Sou estudante de ADS e Eng. da Computação, estou me dedicando para me tornar uma desenvolvedora front-end. Atualmente, estou focada em estudar Desenvolvimento Web
+#### Sou estudante de ADS e Eng. da Computação, estou me dedicando para me tornar uma desenvolvedora front-end. 
 
 <div>
   <a href="https://github.com/emillymoitinho">
