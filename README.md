@@ -1,4 +1,4 @@
-# Olá, me chamo Emilly Moitinho 🩷
+# Olá, me chamo Emilly 🩷
 
 <br>
 
