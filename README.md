@@ -4,8 +4,9 @@
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
  - 🎓 Estudante de Engenharia da Computação
+ - 👩‍💻 Estagiária em Front-End
  - 💻 Apaixonada por tecnologia desde criança
- - ✨ Futura Desenvolvedora Web 
+ - ✨ Futura Desenvolvedora Front-End
 
 <br>
 
