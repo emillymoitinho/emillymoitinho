@@ -2,11 +2,11 @@
 
 <br>
 
- - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
- - 🎓 Estudante de Engenharia da Computação
- - 👩‍💻 Estagiária em Front-End
- - 💻 Apaixonada por tecnologia desde criança
- - ✨ Futura Desenvolvedora Front-End
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Engenharia da Computação
+👩‍💻 Estagiária em Front-End
+💻 Apaixonada por tecnologia desde criança
+✨ Futura Desenvolvedora Front-End
 
 <br>
 
