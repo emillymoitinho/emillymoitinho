@@ -6,7 +6,6 @@
 <br>
 🎓 Estudante de Engenharia da Computação
 <br>
-<br>
 💻 Apaixonada por tecnologia desde criança
 <br>
 ✨ Futura Desenvolvedora Front-End
