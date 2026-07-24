@@ -1,9 +1,6 @@
 # Olá, me chamo Emilly 🩷
 
 <br>
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-<br>
 🎓 Estudante de Engenharia da Computação
 <br>
 💻 Apaixonada por tecnologia desde criança
