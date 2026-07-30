@@ -40,23 +40,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillymoitinho&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymoitinho&layout=compact&theme=radical"/>
-
-</p>
-
----
 
 ## 🔥 Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=emillymoitinho&theme=radical"/>
 
 </p>
 
