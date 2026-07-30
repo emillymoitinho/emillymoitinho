@@ -3,10 +3,6 @@
 <br>
 🎓 Estudante de Engenharia da Computação
 <br>
-💻 Apaixonada por tecnologia desde criança
-<br>
-
-<br>
 
 <div>
   <a href="https://github.com/emillymoitinho">
@@ -27,12 +23,6 @@
 </div>
 
 <br>
-
-# Entre em Contato 
-<div> 
-  <a href="https://www.linkedin.com/in/emillymoitinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="mailto:emillysmoitinho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
 
 
 
