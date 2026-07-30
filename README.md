@@ -3,6 +3,7 @@
 <br>
 🎓 Estudante de Engenharia da Computação
 <br>
+<br>
 
 <div>
   <a href="https://github.com/emillymoitinho">
