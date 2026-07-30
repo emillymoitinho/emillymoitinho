@@ -1,29 +1,71 @@
-# Olá, me chamo Emilly 🩷
+<h1 align="center">Seja Bem Vindo(a)! Eu sou a Emilly 🌸</h1>
 
-<br>
-🎓 Estudante de Engenharia da Computação
-<br>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Desenvolvedora+Front-End;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o" />
+</p>
 
-<div>
-  <a href="https://github.com/emillymoitinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emillymoitinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymoitinho&layout=compact&langs_count=16&theme=radical"/>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hmbWNmZmtycTgwMzdmb2E5b3l0MGNneHpsdnBtdmU0b2NobDljMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="450"/>
+</p>
+
+---
+
+## 👩🏻‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia da Computação - UNIVESP
+- 💼 Desenvolvedora Web
+- 🌱 Atualmente estudando Javascript e PHP
+
+---
+
+## 🚀 Tecnologias
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass" />
+</p>
+
+### Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emillymoitinho&show_icons=true&theme=radical"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymoitinho&layout=compact&theme=radical"/>
+
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigada por visitar meu perfil!
+
+<img src="https://komarev.com/ghpvc/?username=emillymoitinho&color=ff69b4&style=for-the-badge"/>
+
 </div>
-    
-<br>
-    
-<div style="display: flex"><br>
- <img align="center" alt="Emilly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Emilly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Emilly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Emilly-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
- <img align="center" alt="Emilly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Emilly-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- <img align="center" alt="Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
-</div>
-
-<br>
-
-
-
