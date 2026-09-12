@@ -4,17 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Desenvolvedora+Front-End;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o" />
 </p>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hmbWNmZmtycTgwMzdmb2E5b3l0MGNneHpsdnBtdmU0b2NobDljMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="450"/>
-</p>
-
 ---
 
 ## 👩🏻‍💻 Sobre mim
 
 - 🎓 Estudante de Engenharia da Computação - UNIVESP
 - 💼 Desenvolvedora Web
-- 🌱 Atualmente estudando Javascript e PHP
+- 🌱 Atualmente estudando Javascript, Typescript e React
 
 ---
 
