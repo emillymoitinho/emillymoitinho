@@ -45,8 +45,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion" />
 </p>
 
----
-
 
 ## 🔥 Streak
 
@@ -55,8 +53,6 @@
 <img src="https://streak-stats.demolab.com?user=emillymoitinho&theme=radical"/>
 
 </p>
-
----
 
 <div align="center">
 
